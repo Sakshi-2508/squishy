@@ -28,7 +28,7 @@ Add this to your `pubspec.yaml`
 
 ```yaml
 dependencies:
-  squishy: ^0.0.1
+  squishy: ^0.0.2
 ```
 
 Then run:
