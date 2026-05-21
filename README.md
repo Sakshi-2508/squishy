@@ -1,0 +1,200 @@
+# 🫠 Squishy
+
+> Beautiful organic page transitions for Flutter.
+> Add liquid, elastic, gooey, and stretchy navigation animations to your app with just one line.
+
+## 🎬 Preview
+
+<p align="center">
+  <img src="example/assets/video/Squishy.gif" width="250" />
+</p>
+
+---
+
+## ✨ Features
+
+- 🚀 Smooth page transitions
+- 🫠 Organic blob animations
+- 🔥 Gooey liquid effects
+- ✨ Elastic bounce transitions
+- 🧩 Stretch/rubber reveal
+- ⚡ Lightweight & easy to use
+- 🎨 Modern transition showcase
+- 📱 Works on Android, iOS, Web & Desktop
+
+
+<<<<<<< HEAD
+# 🎬 Preview
+
+<p>
+  <img src="example/assets/video/Squishy.gif" width="250"/>
+</p>
+
+=======
+>>>>>>> 2c20cd5b88e83a6ba43f2e12c628e11ec60fd60f
+---
+
+# 📦 Installation
+
+Add this to your `pubspec.yaml`
+
+```yaml
+dependencies:
+  squishy: ^0.0.1
+```
+
+Then run:
+
+```bash
+flutter pub get
+```
+
+---
+
+# 🚀 Usage
+
+Import package:
+
+```dart
+import 'package:squishy/squishy.dart';
+```
+
+---
+
+# ✨ Elastic Transition
+
+```dart
+Navigator.of(context).push(
+  SquishyPageRoute(
+    page: const NextScreen(),
+    effect: SquishyEffect.elastic,
+  ),
+);
+```
+
+---
+
+# 🫠 Blob Transition
+
+```dart
+Navigator.of(context).push(
+  SquishyPageRoute(
+    page: const NextScreen(),
+    effect: SquishyEffect.blob,
+  ),
+  
+);
+```
+
+---
+
+# 🚀 Stretch Transition
+
+```dart
+Navigator.of(context).push(
+  SquishyPageRoute(
+    page: const NextScreen(),
+    effect: SquishyEffect.stretch,
+  ),
+);
+```
+
+---
+
+# 🔥 Gooey Transition
+
+```dart
+Navigator.of(context).push(
+  SquishyPageRoute(
+    page: const NextScreen(),
+    effect: SquishyEffect.gooey,
+  ),
+);
+```
+
+---
+
+# 🎨 Available Effects
+
+```dart
+SquishyEffect.elastic
+SquishyEffect.blob
+SquishyEffect.stretch
+SquishyEffect.gooey
+```
+
+---
+
+# 🧠 Example
+
+```dart
+Navigator.push(
+  context,
+  SquishyPageRoute(
+    page: const HomeScreen(),
+    effect: SquishyEffect.blob,
+  ),
+);
+```
+
+---
+
+# 🌟 Why Squishy?
+
+Squishy is designed to make Flutter navigation feel:
+
+- smoother
+- more playful
+- modern
+- interactive
+- visually satisfying
+
+Instead of boring default transitions, Squishy gives your app personality.
+
+---
+
+# 📱 Platform Support
+
+| Platform | Supported |
+| -------- | --------- |
+| Android  | ✅        |
+| iOS      | ✅        |
+| Web      | ✅        |
+| macOS    | ✅        |
+| Windows  | ✅        |
+| Linux    | ✅        |
+
+---
+
+# 🔮 Upcoming Effects
+
+- 🌊 Wave
+- 🖤 Ink
+- 💫 Morph
+- 🌈 Liquid Swipe
+- 🧪 Advanced Goo Physics
+
+---
+
+# 🤝 Contributing
+
+Pull requests are welcome.
+Feel free to improve animations, performance, and effects.
+
+---
+
+# 📄 License
+
+MIT License © 2026
+
+---
+
+# 💙 Show Some Love
+
+If you like this package, give it a ⭐ on GitHub and support the project 🚀
+
+## 🌐 GitHub
+
+⭐ Star the project on GitHub:
+
+[Squishy GitHub Repository](https://github.com/Sakshi-2508/squishy)

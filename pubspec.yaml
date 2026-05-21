@@ -1,0 +1,28 @@
+name: squishy
+description: Beautiful organic page transitions for Flutter with blob, gooey, elastic, and stretch effects.
+version: 0.0.1
+
+
+homepage: https://github.com/Sakshi-2508/squishy
+repository: https://github.com/Sakshi-2508/squishy
+issue_tracker: https://github.com/Sakshi-2508/squishy/issues
+
+topics:
+  - animation
+  - transition
+  - page-transition
+  - flutter-animation
+  - ui
+
+environment:
+  sdk: ^3.11.5
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
