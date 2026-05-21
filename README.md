@@ -22,18 +22,6 @@
 - 🎨 Modern transition showcase
 - 📱 Works on Android, iOS, Web & Desktop
 
-
-<<<<<<< HEAD
-# 🎬 Preview
-
-<p>
-  <img src="example/assets/video/Squishy.gif" width="250"/>
-</p>
-
-=======
->>>>>>> 2c20cd5b88e83a6ba43f2e12c628e11ec60fd60f
----
-
 # 📦 Installation
 
 Add this to your `pubspec.yaml`
