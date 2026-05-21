@@ -5,7 +5,7 @@
 
 ## 🎬 Preview
 
-<p align="center">
+<p>
   <img src="example/assets/video/Squishy.gif" width="250" />
 </p>
 
