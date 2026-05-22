@@ -186,3 +186,6 @@ If you like this package, give it a ⭐ on GitHub and support the project 🚀
 ⭐ Star the project on GitHub:
 
 [Squishy GitHub Repository](https://github.com/Sakshi-2508/squishy)
+
+# Package URL
+https://pub.dev/packages/squishy
