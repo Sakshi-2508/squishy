@@ -1,7 +1,20 @@
 # 🫠 Squishy
 
 > Beautiful organic page transitions for Flutter.
-> Add liquid, elastic, gooey, and stretchy navigation animations to your app with just one line.
+> Make navigation feel alive with blob, gooey, elastic and stretch animations.
+
+✨ Why Squishy?
+
+Flutter apps often use the same default page transitions.
+Squishy brings playful motion, organic animations, and fluid navigation experiences that instantly make your app feel more modern.
+Perfect for:
+
+Creative apps
+Portfolio apps
+Startup products
+Social apps
+Modern dashboards
+Premium UI experiences
 
 ## 🎬 Preview
 
